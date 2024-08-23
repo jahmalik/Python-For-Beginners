@@ -1,0 +1,7 @@
+# My First strings exercise
+def first_string_exercise():
+    #printing string variable
+    mystr = "Hi, World I am here in python"
+    print(mystr)
+if __name__ == '__main__':
+    first_string_exercise()
