@@ -1,0 +1,7 @@
+# Let's do some basic calculations
+num1 = 10
+num2 = 5
+sol = (num1+num2)
+print(sol)
+print('\n')
+print(The sum of {num1} and {num2} = {sol})
