@@ -1,0 +1,8 @@
+# Python Control Statement - Conditions
+num = 10
+  if num > 8:
+    print(f'{num} is greater than 8')
+  else:
+    print(f'{num} is not greater than 8')
+
+  
