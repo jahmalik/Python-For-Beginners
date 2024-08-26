@@ -1,0 +1,8 @@
+# Basic Loop using python for loop
+    myseq = ["Austin","New York","Denver","Miami","Atlanta"]
+    mysta = ["TX", "NY", "CO", "FL", "GA"]
+
+    for x in myseq:
+        print(x)
+        if x == "Denver":
+            break
