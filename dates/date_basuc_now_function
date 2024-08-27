@@ -1,0 +1,13 @@
+def date_basic():
+
+    # Importing date module from library
+    import datetime as dt
+
+    # assigning current date time to a variable
+    x = dt.datetime.now()
+
+    # Printing a variable
+    print(x)
+
+if __name__=='__main__':
+    date_basic()
