@@ -1,0 +1,10 @@
+def maths_min_max():
+    # Find Minimum and Maximum Number from given values
+    x = min(5, 10, 15, 20, 25)
+    print(f'Minimum value is {x}')
+
+    y = max(25, 35, 45, 55, 60)    
+    print(f'Maximum value is {y}')
+
+if __name__=='__main__':
+    maths_min_max()
